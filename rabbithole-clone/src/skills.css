@@ -1,0 +1,81 @@
+#skills {
+    background-color: rgba(42, 41, 50, 1);
+    padding: 30px 40px;
+}
+
+#skills-columns {
+    /* border: 1px solid white; */
+    margin: auto 80px;
+}
+
+#left-skills-column {
+    /* border: 1px solid yellow; */
+}
+
+#skill-box {
+    /* border: 1px solid green; */
+    margin: 20px auto;
+}
+
+#skill-icon-box,
+#skill-title-box,
+#skill-desc-box {
+    /* border: 1px solid white; */
+    margin: 10px 0px;
+}
+
+#skill-icon-box i {
+    font-size: 50px;
+    color: white;
+}
+
+#skill-title-box h1 {
+    color: white;
+    font-size: 30px;
+}
+
+#skill-desc-box p {
+    color: rgba(255, 255, 255, 0.562);
+    font-size: 20px;
+}
+
+
+#right-skills-column #title-box {
+    /* border: 1px solid black; */
+    margin-bottom: 10px;
+}
+
+#right-skills-column #title-box h1 {
+    font-size: 45px;
+    font-weight: 500;
+    color: white;
+}
+
+#right-skills-column #title-box span {
+    color: rgba(129, 251, 184, 1);
+}
+
+#right-skills-column #desc-box {
+    /* border: 1px solid black; */
+    margin-bottom: 10px;
+}
+
+#right-skills-column #desc-box p {
+    color: rgb(226, 226, 226);
+    font-weight: 400;
+    font-size: 18px;
+}
+
+#buttons-box {
+    /* border: 1px solid black; */
+}
+
+#buttons-box #button-one {
+    background-color: rgba(129, 251, 184, 1);
+    border: none;
+    /* margin-right: 5px; */
+    color: black;
+    font-weight: 500;
+    border-radius: 10px;
+    padding: 0;
+}

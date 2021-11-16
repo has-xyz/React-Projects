@@ -1,0 +1,45 @@
+#pathfinder {
+    background-color: rgba(52, 51, 61, 1);
+    /* height: 50vh; */
+    padding: 38px 26px;
+
+}
+
+#pathfinder-box {
+    /* border: 1px solid white; */
+    margin: auto 80px;
+    border-radius: 10px;
+    background-image: url('./rhbg.jpg');
+    padding: 40px 30px;
+}
+
+#pathfinder-column-one {
+    /* border: 1px solid orange; */
+}
+
+#pathfinder-column-one p {
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.534);
+    font-weight: 500;
+    letter-spacing: 0.5px;
+}
+
+#pathfinder-column-one h1 {
+    font-size: 45px;
+    color: white;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+#pathfinder-column-two p {
+    font-size: 26px;
+    color: white;
+}
+
+#pathfinder-column-three #pathfinder-button {
+    background-color: white;
+    border: none;
+    border-radius: 15px;
+    color: #f154ea;
+    font-weight: 600;
+}

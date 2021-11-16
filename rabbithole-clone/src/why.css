@@ -1,0 +1,100 @@
+#why {
+    margin: auto;
+}
+
+#left-why-column {
+    background-color: rgba(60, 60, 72, 1);
+}
+
+#which-cat-columns {
+    /* border: 1px solid white; */
+    height: 10vh;
+    margin: auto 80px;
+    margin-bottom: 30px;
+}
+
+#left-cat-column {
+    /* border: 1px solid yellow; */
+}
+
+#left-cat-column h1 {
+    font-size: 30px;
+    color: rgba(255, 255, 255, 0.521);
+    font-weight: 500;
+}
+
+#left-cat-column span {
+    color: white;
+}
+
+#right-cat-column i {
+    font-size: 50px;
+    color: white;
+}
+
+#text {
+    margin: 20px 80px;
+
+}
+
+
+#text #title-box {
+    /* border: 1px solid black; */
+    margin-bottom: 20px;
+}
+
+#text #title-box h1 {
+    font-size: 45px;
+    font-weight: 500;
+    color: white;
+}
+
+#text #title-box span {
+    color: rgba(129, 251, 184, 1);
+}
+
+#text #desc-box {
+    /* border: 1px solid black; */
+    margin-bottom: 20px;
+}
+
+#text #desc-box p {
+    color: rgb(226, 226, 226);
+    font-weight: 400;
+    font-size: 18px;
+}
+
+#buttons-box {
+    /* border: 1px solid black; */
+}
+
+#buttons-box #button-one {
+    background-color: rgba(129, 251, 184, 1);
+    border: none;
+    /* margin-right: 5px; */
+    color: black;
+    font-weight: 500;
+    border-radius: 10px;
+    width: 48%;
+}
+
+#buttons-box #button-two {
+    background-color: rgba(255, 255, 255, 0.247);
+    color: rgba(129, 251, 184, 1);
+    border: none;
+    font-weight: 500;
+    border-radius: 10px;
+    width: 50%;
+    float: right;
+    font-size: 15px;
+}
+
+
+
+
+
+
+#right-why-column {
+    background-color: rgba(42, 41, 50, 1);
+
+}
