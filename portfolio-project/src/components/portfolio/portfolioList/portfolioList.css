@@ -1,0 +1,17 @@
+@import '../../../global.css';
+
+.portfolioList {
+    font-size: 14px;
+    margin-right: 50px;
+    padding: 9px;
+    border-radius: 10px;
+}
+
+.portfolioList.active {
+    background-color: var(--mainColour);
+    color: white;
+}
+
+.portfolioList:hover {
+    cursor: pointer;
+}
