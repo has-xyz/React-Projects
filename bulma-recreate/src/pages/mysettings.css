@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;0,600;0,700;1,300&family=Quicksand:wght@300;400;500;600&family=Roboto+Slab:wght@100;300;400;500;700&display=swap");
+
+ div {
+  font-family: "Quicksand", sans-serif !important;
+} 
+
+#settings-left-column {
+    border-right: 1px solid rgb(240, 240, 240);
+    height: 110vh;
+    /* box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23); */
+}
+
+#profile-image {
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+.account-item a {
+    padding: 20px 10px;
+}
+
+.account-item a i {
+    margin-right: 5px;
+}

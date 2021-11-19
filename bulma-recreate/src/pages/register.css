@@ -1,0 +1,110 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;0,600;0,700;1,300&family=Roboto+Slab:wght@100;300;400;500;700&display=swap'); */
+@import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;0,600;0,700;1,300&family=Quicksand:wght@300;400;500;600&family=Roboto+Slab:wght@100;300;400;500;700&display=swap");
+
+#register {
+  font-family: "Quicksand", sans-serif !important;
+}
+
+#welcome-back {
+  font-size: 15px;
+  padding-top: 8px;
+  color: rgb(167, 167, 167);
+  font-weight: 400;
+}
+
+hr {
+  background-color: rgba(204, 204, 204, 0.274);
+  height: 0.5px;
+}
+
+#picture-column {
+  /* height: 105vh; */
+  background: url("./bg.jpg") center;
+  /* background-color: rgba(0, 0, 0, 0.5);
+background-blend-mode: multiply; */
+  margin: 0;
+  padding: 0;
+  height: 105vh;
+}
+
+/* #picture-column img {
+    width: 100%;
+    height: 105vh;
+} */
+
+#form-column {
+  height: 100vh;
+}
+
+#form-column .navbar-item {
+  color: black;
+  font-weight: 400;
+  font-size: 15px;
+}
+
+#form-column input {
+  border-radius: 0;
+  border: 1px solid rgb(236, 236, 236);
+  min-height: 50px;
+  font-size: 16px;
+  font-family: "Quicksand", sans-serif !important;
+}
+
+#form-column select {
+    border-radius: 0;
+    border: 1px solid rgb(236, 236, 236);
+    font-size: 16px;
+    font-family: "Quicksand", sans-serif !important;
+}
+
+#form-column button {
+  min-width: 200px;
+  min-height: 50px;
+  border-radius: 1px;
+  font-family: "Quicksand", sans-serif !important;
+  font-weight: 500 !important;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+#register-instead {
+  font-family: "Quicksand", sans-serif !important;
+  font-weight: 300 !important;
+  font-size: 14px;
+  padding-top: 20px;
+}
+
+#register-instead a {
+  font-weight: 600;
+  font-size: 15px;
+}
+
+#login-error-text {
+  font-size: 14px;
+}
+
+#reset-password-text {
+  font-size: 14px;
+  text-decoration: underline;
+}
+
+#reset-password-text:hover {
+  font-weight: 500;
+}
+
+#user-type-title {
+    font-size: 18px;
+}
+
+#user-type-button {
+    border: none;
+    width: 100%;
+}
+
+#user-type-button i {
+    margin-left: 5px;
+    font-size: 16px;
+}
+
+#register-form {
+    padding-bottom: 20px;
+}
