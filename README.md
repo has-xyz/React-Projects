@@ -1,2 +1,2 @@
-# UI-Designs
-UI Designs that I create.
+# React Projects
+React Projects that I have created on my learning journey.
