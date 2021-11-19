@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=M+PLUS+Rounded+1c:wght@100;300;400;500;700&display=swap');
+
+
+#tools-container {
+    margin: 50px 25px;
+    padding: 0px 25px;
+}
+
+#tools-title-text {
+    font-family: 'DM Serif Display', serif;
+    font-size: 48px;
+    color: black;
+}
+
+#tools-subtitle-text {
+    font-family: "M PLUS Rounded 1c", sans-serif;
+    color: black;
+    font-weight: 300;
+    font-size: 14px;
+    padding-top: 10px;
+    letter-spacing: 0.8px;
+}
+
+#left-column {
+    margin-right: 30px;
+}
+
+#right-column {
+    margin-left: 30px;
+}
+
+#column-image img {
+    border-radius: 5px;
+    /* width: 522px;
+    height: 313px; */
+}
+
+#column-text {
+    margin-top: 30px;
+}
+
+#column-title-text {
+    padding-bottom: 10px;
+    color: black;
+    font-size: 35px;
+    font-weight: 700;
+    font-family: 'DM Serif Display', serif;
+
+}
+
+#column-subtitle-text {
+    color: black;
+    font-size: 15px;
+    letter-spacing: 0.5px;
+    font-family: "M PLUS Rounded 1c", sans-serif;
+    max-width: 90%;
+    line-height: 1.3rem;
+}
+
+#column-button {
+    color: black;
+    border-radius: 0px;
+    width: 200px;
+    height: 55px;
+    font-weight: 600;
+    border: 2px solid black;
+}
